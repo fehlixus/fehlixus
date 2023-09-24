@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Felix
 #### Aspiring Machine Learning Engineer
 Hey there, I'm Felix from Switzerland! Currently, I'm in my 3rd semester of a Bachelor's program in Artificial Intelligence and Machine Learning. In my free time, among other things, I enjoy editing videos and creating designs with Adobe Illustrator.
+
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,lua,pr,ps,ai)](https://skillicons.dev)
 
 
